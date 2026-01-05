@@ -1,4 +1,4 @@
-# LLMS.txt Generator for WordPress
+# Simple LLMS.txt Generator
 
 A WordPress plugin that dynamically generates an `llms.txt` file for Large Language Models (LLMs) and automatically includes it in your XML sitemap. Designed specifically to work with WordPress VIP and other managed WordPress environments that restrict static file creation.
 
@@ -37,14 +37,14 @@ The file is generated on-demand without writing to the filesystem, making it per
 
 ### Manual Installation
 
-1. Upload the `llms-txt-generator` folder to `/wp-content/plugins/`
+1. Upload the `simple-llms-txt-generator` folder to `/wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Settings → LLMS.txt to configure your settings
 
 ### File Structure
 ```
-wp-content/plugins/llms-txt-generator/
-├── llms-txt-generator.php
+wp-content/plugins/simple-llms-txt-generator/
+├── simple-llms-txt-generator.php
 ├── class-llms-sitemap-provider.php
 └── README.md
 ```
