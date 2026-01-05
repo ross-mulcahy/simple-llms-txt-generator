@@ -199,8 +199,8 @@ For bug reports, feature requests, or contributions, please contact your develop
 
 ## Credits
 
-Developed for WordPress VIP compatibility by [Your Name/Organization]
+Developed for WordPress VIP compatibility by Ross Mulcahy
 
 ## License
 
-This plugin is proprietary software developed for internal use. All rights reserved.
+This plugin is free software, is released under the terms of the GNU General Public License version 2 or (at your option) any later version. See LICENSE.md for complete license.

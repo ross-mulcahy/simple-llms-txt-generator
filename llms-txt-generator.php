@@ -4,6 +4,8 @@
  * Description: Dynamically generates llms.txt file and adds it to XML sitemap
  * Version: 1.0.0
  * Author: Ross Mulcahy
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: llms-txt-generator
  */
 
