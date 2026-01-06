@@ -27,17 +27,7 @@ The file is generated on-demand without writing to the filesystem, making it per
 
 ## Installation
 
-### Via WordPress Admin (Recommended for most users)
-
-1. Download the plugin zip file
-2. Go to WordPress Admin → Plugins → Add New → Upload Plugin
-3. Choose the zip file and click "Install Now"
-4. Activate the plugin
-5. Go to Settings → LLMS.txt to configure
-
-### Manual Installation
-
-1. Upload the `simple-llms-txt-generator` folder to `/wp-content/plugins/`
+1. Add the `simple-llms-txt-generator` plugin folder to `/wp-content/plugins/` in your GitHub repo.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Settings → LLMS.txt to configure your settings
 
