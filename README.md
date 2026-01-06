@@ -152,7 +152,7 @@ This plugin is specifically designed for WordPress VIP:
 
 ### Does this plugin write files to the server?
 
-No. The plugin dynamically generates the llms.txt content on each request, making it perfect for WordPress VIP and other managed hosting environments.
+No. It generates the content dynamically per request, which is actually ideal for WordPress VIP environments. The platform's robust page caching ensures excellent performance without any static file management.
 
 ### Can I customize the content that appears in llms.txt?
 
